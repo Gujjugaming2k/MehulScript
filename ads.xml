@@ -16,12 +16,12 @@
           <UniversalAdId idRegistry="Ad-ID" idValue="8465">8465</UniversalAdId>
           <Linear skipoffset="00:00:15">
             <TrackingEvents>
-              <Tracking event="start">https://playit.today/ads/impressions.php?adsid=tejyoutube&event=start</Tracking>
-              <Tracking event="firstQuartile">https://playit.today/ads/impressions.php?adsid=tejyoutube&event=firstQuartile</Tracking>
-              <Tracking event="midpoint">https://playit.today/ads/impressions.php?adsid=tejyoutube&event=midpoint</Tracking>
-              <Tracking event="thirdQuartile">https://playit.today/ads/impressions.php?adsid=tejyoutube&event=thirdQuartile</Tracking>
-              <Tracking event="complete">https://playit.today/ads/impressions.php?adsid=tejyoutube&event=complete</Tracking>
-              <Tracking event="progress" offset="00:00:10">https://playit.today/ads/impressions.php?adsid=tejyoutube&event=progress</Tracking>
+              <Tracking event="start">https://playit.today/ads/impressions.php?adsid=tejyoutube</Tracking>
+              <Tracking event="firstQuartile">https://playit.today/ads/impressions.php?adsid=tejyoutube</Tracking>
+              <Tracking event="midpoint">https://playit.today/ads/impressions.php?adsid=tejyoutube</Tracking>
+              <Tracking event="thirdQuartile">https://playit.today/ads/impressions.php?adsid=tejyoutube</Tracking>
+              <Tracking event="complete">https://playit.today/ads/impressions.php?adsid=tejyoutube</Tracking>
+              <Tracking event="progress" offset="00:00:10">https://playit.today/ads/impressions.php?adsid=tejyoutube</Tracking>
             </TrackingEvents>
             <Duration>00:00:16</Duration>
             <MediaFiles>
