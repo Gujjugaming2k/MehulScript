@@ -16,7 +16,7 @@
           <UniversalAdId idRegistry="Ad-ID" idValue="8465">8465</UniversalAdId>
           <Linear skipoffset="00:00:15">
             <TrackingEvents>
-              <Tracking event="start">http://playit.today/ads/impressions.php</Tracking>
+              <Tracking event="start">https://playit.today/ads/impressions.php</Tracking>
               <Tracking event="firstQuartile">http://example.com/tracking/firstQuartile</Tracking>
               <Tracking event="midpoint">http://example.com/tracking/midpoint</Tracking>
               <Tracking event="thirdQuartile">http://example.com/tracking/thirdQuartile</Tracking>
